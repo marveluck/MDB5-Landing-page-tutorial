@@ -2,21 +2,18 @@
 
 ## What will you learn?
 
-<p>You will learn how to create landing page from scratch in 30 minutes.</p>
+<p>In <a href="https://youtu.be/EvnLvZykfwM"><b>this tutorial</a> you will learn how to create landing page from scratch in 30 minutes.</p>
 
 
-# Live preview
+## Live preview
 
 <a href="https://mdbgo.dev/dawidadach/mdb5-landing/">
   <p align="center">
-    <img src="https://mdbootstrap.com/img/Marketing/campaigns/mdb5-landing-page.gif">
+    <img width="712" height="401" src="https://mdbootstrap.com/img/Marketing/campaigns/mdb5-landing-page.gif">
   </p>
 </a>
 
-https://youtu.be/EvnLvZykfwM
-
-
-# Bootstrap 5 & Material Design 2.0 UI KIT
+## Bootstrap 5 & Material Design 2.0 UI KIT
 
 <a href="https://mdbootstrap.com/docs/standard/">
   <img width="712" height="359" src="https://mdbootstrap.com/wp-content/themes/mdbootstrap4/content/en/_mdb5/standard/pro/_main/assets/mdb5-about-v2.jpg">
@@ -35,15 +32,20 @@ https://youtu.be/EvnLvZykfwM
 
 <p>Simplicity and ease of use are key features of MDB 5 UI Kit. You need only one minute to install and run it - <a href="https://www.youtube.com/watch?v=biwC8jK7YYY"><b>watch 1 min manual installation</b></a></p>
 
-# Getting started with MDB 5
+## Getting started with MDB 5
 
 <p>You can download the MDB5 Free package from <a href="https://mdbootstrap.com/docs/standard/getting-started/installation/">HERE</a></p>
 
-# Join our Facebook Group & be up to date with any new release
+## Join our Facebook Group & be up to date with any new release
 
 https://www.facebook.com/groups/682245759188413/
 
-# CLI Tutorial 
+## Connect with us on soccial media
+
+[Twitter](https://twitter.com/MDBootstrap) | [Facebook](https://www.facebook.com/mdbootstrap) | [Pinterest](https://pl.pinterest.com/mdbootstrap) | [Dribbble](https://dribbble.com/mdbootstrap) | [LinkedIn](https://www.linkedin.com/company/material-design-for-bootstrap) | [YouTube](https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA)
+
+
+## CLI Tutorial 
 
 <p>MDB CLI is a free tool that significantly speeds up and facilitates the creation of a new MDB project and its deployment. Our tutorial shows how to get started with MDB CLI and MDB 5 quickly and how to use its full potential.</p>
 
