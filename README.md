@@ -11,7 +11,8 @@
     <img width="712" height="401" src="https://mdbootstrap.com/img/Marketing/campaigns/mdb5-landing-page.gif">
 </a>
 
-Click <a href="https://mdbgo.dev/dawidadach/mdb5-landing/"><b>here</b></a> to view full preview & check how landing page works! 
+
+<b>Click <a href="https://mdbgo.dev/dawidadach/mdb5-landing/"><b>here</b></a> to view full preview & check how landing page works!</b>
 
 
 ## Bootstrap 5 & Material Design 2.0 UI KIT
@@ -35,19 +36,18 @@ Click <a href="https://mdbgo.dev/dawidadach/mdb5-landing/"><b>here</b></a> to vi
 
 ## Getting started with MDB 5
 
-<p>You can download the MDB5 Free package from <a href="https://mdbootstrap.com/docs/standard/getting-started/installation/">HERE</a></p>
-
-## Join our Facebook Group & be up to date with any new release
-
-https://www.facebook.com/groups/682245759188413/
-
-## Connect with us on soccial media
-
-[Twitter](https://twitter.com/MDBootstrap) | [Facebook](https://www.facebook.com/mdbootstrap) | [Pinterest](https://pl.pinterest.com/mdbootstrap) | [Dribbble](https://dribbble.com/mdbootstrap) | [LinkedIn](https://www.linkedin.com/company/material-design-for-bootstrap) | [YouTube](https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA)
-
+<p>You can download the MDB5 Free package from <a href="https://mdbootstrap.com/docs/standard/getting-started/installation/"><b>here</b></a></p>
 
 ## CLI Tutorial 
 
 <p>MDB CLI is a free tool that significantly speeds up and facilitates the creation of a new MDB project and its deployment. Our tutorial shows how to get started with MDB CLI and MDB 5 quickly and how to use its full potential.</p>
 
 <p><a href="https://mdbootstrap.com/docs/standard/cli/quick-start/"><b></a><p>
+
+## Join our Facebook Group
+
+https://www.facebook.com/groups/682245759188413/
+
+## Connect with us on social media & be up to date with any new release or tutorial
+
+[Twitter](https://twitter.com/MDBootstrap) | [Facebook](https://www.facebook.com/mdbootstrap) | [Pinterest](https://pl.pinterest.com/mdbootstrap) | [Dribbble](https://dribbble.com/mdbootstrap) | [LinkedIn](https://www.linkedin.com/company/material-design-for-bootstrap) | [YouTube](https://www.youtube.com/channel/UC5CF7mLQZhvx8O5GODZAhdA)
