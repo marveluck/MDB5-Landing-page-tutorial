@@ -8,10 +8,11 @@
 ## Live preview
 
 <a href="https://mdbgo.dev/dawidadach/mdb5-landing/">
-  <p align="center">
     <img width="712" height="401" src="https://mdbootstrap.com/img/Marketing/campaigns/mdb5-landing-page.gif">
-  </p>
 </a>
+
+Click <a href="https://mdbgo.dev/dawidadach/mdb5-landing/"><b>here</b></a> to view full preview & check how landing page works! 
+
 
 ## Bootstrap 5 & Material Design 2.0 UI KIT
 
